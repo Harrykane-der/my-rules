@@ -1,6 +1,7 @@
-"rules":[
-  {
-    "domain_keyword": [
+{
+  "rules": [
+    {
+      "domain_keyword": [
         "httpdns",
         "httpsdns",
         "stun",
@@ -25,3 +26,4 @@
       ]
     }
   ]
+}
