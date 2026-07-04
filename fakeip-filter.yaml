@@ -3,3 +3,5 @@ payload:
   - "+.meituan.cn"
   - "+.meituan.com"
   - "+.xboxlive.com"
+  - "+.gh-proxy.com"
+  - "+.jsdelivr.net"
