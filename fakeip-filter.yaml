@@ -1,4 +1,6 @@
 payload:
+  - +.fastly.jsdelivr.net
+  - +.gh-proxy.com
   - +.ghfast.top
   - +.51ping.com
   - +.baobaoaichi.cn
