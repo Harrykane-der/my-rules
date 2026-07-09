@@ -8,3 +8,5 @@ payload:
   - "+.konami.net"
   - "+.efootballhub.net"
   - "+.konami.*"
+  - "+.konami.*.*"
+  - "+.konami.*·*.*"
