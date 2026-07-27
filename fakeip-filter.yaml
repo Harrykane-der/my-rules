@@ -1,12 +1,4 @@
 payload:
-  - 34223ad4-0a53-4263-8e27-84f057778034.ybw2zc65wd.sbs
-  - 8a5388fd-b933-42bd-aba2-d417a64679a3.6pp0rpfo8b.sbs
-  - 78230a64-88ca-41d9-9a77-6f08834465cf.0ztnlk7gnu.sbs
-  - 70ab8b9e-350f-4a12-beb6-94706d3f8197.ybw2zc65wd.sbs
-  - 556eea5a-f7b5-41bc-ac56-081156436596.ybw2zc65wd.sbs
-  - 4184112c-80db-40b1-be6c-700dd87dd03b.6pp0rpfo8b.sbs
-  - 674b1762-3ef7-41fb-be22-04a45706fe24.0ztnlk7gnu.sbs
-  - 23affee0-7dd0-4f15-a6c3-5a9a06ad43b4.ybw2zc65wd.sbs
   - +.fastly.jsdelivr.net
   - +.stun.*
   - +.stun.*.*.*.*.*
