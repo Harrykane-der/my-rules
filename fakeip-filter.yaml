@@ -8,6 +8,9 @@ payload:
   - 674b1762-3ef7-41fb-be22-04a45706fe24.0ztnlk7gnu.sbs
   - 23affee0-7dd0-4f15-a6c3-5a9a06ad43b4.ybw2zc65wd.sbs
   - +.fastly.jsdelivr.net
+  - +.stun.*
+  - +.stun.*.*.*.*.*
+  - +.stun.*.*.*.*.*.*
   - +.gh-proxy.com
   - +.ghfast.top
   - +.51ping.com
