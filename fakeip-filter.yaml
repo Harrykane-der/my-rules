@@ -1,4 +1,5 @@
 payload:
+  - +.dsocial.xyz
   - +.fastly.jsdelivr.net
   - +.stun.*
   - +.stun.*.*.*.*.*
