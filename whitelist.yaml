@@ -112,45 +112,17 @@ payload:
   - +.p.bokecc.com
 
   # ========== 直播与短视频 ==========
-  - +.gift.douyucdn.cn
-  - +.p3-ad-sign.byteimg.com
   - +.va.huya.com
-  - +.img2.autoimg.cn
-  - +.ib.snssdk.com
-  - +.ic.snssdk.com
-  - +.is.snssdk.com
-  - +.mcs.snssdk.com
-  - +.vcs.snssdk.com
-  - +.verify.snssdk.com
-  - +.log.snssdk.com
   - +.livewebbs2.msstatic.com
   - +.msstatic.com
   - +.miniapp.bilibili.com
   - +.grpc.biliapi.net
   - +.live-trace.bilibili.com
 
-  # ========== 未分类大厂 ==========
-  - +.sgali-mcs.byteoversea.com
+  # ========== 未分类大厂 =========
   - +.eq.10jqka.com.cn
   - +.terms-drcn.platform.dbankcloud.cn
   - +.tnc-boot.capcutapi.com
-  - +.tnc-sg.capcutapi.com
-  - +.tnc0-aliec2.zijieapi.com
-  - +.tnc0-alisc1.zijieapi.com
-  - +.tnc0-bjlgy.zijieapi.com
-  - +.tnc16-alisg.isnssdk.com
-  - +.tnc16-useast1a.isnssdk.com
-  - +.tnc3-aliec1.toutiaoapi.com
-  - +.tnc3-aliec2.bytedance.com
-  - +.tnc3-aliec2.snssdk.com
-  - +.tnc3-aliec2.toutiaoapi.com
-  - +.tnc3-alisc1.bytedance.com
-  - +.tnc3-alisc1.snssdk.com
-  - +.tnc3-alisc1.toutiaoapi.com
-  - +.tnc3-alisc2.zijieapi.com
-  - +.tnc3-bjlgy.bytedance.com
-  - +.tnc3-bjlgy.snssdk.com
-  - +.tnc3-bjlgy.toutiaoapi.com
   - +.cloudflareinsights.com
   - +.erebor.douban.com
   - +.graph.facebook.com
