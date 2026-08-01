@@ -1,4 +1,6 @@
 payload:
+  - +.umeng.com
+  - +.dc.sigmob.cn
   - +.dsocial.xyz
   - +.fastly.jsdelivr.net
   - +.stun.*
