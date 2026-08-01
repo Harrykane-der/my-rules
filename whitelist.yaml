@@ -1,7 +1,7 @@
 payload:
   # ========== 大众评球 / umeng ==========
   - +.umeng.com
-  - +.dc.sigmob.cn
+  - +.sigmob.cn
   - pgdt.ugdtimg.com
 
   # ========== FCM / Google mtalk ==========
