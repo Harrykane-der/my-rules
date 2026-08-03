@@ -13,14 +13,6 @@
   - +.mtalk.google.com
 
   # ========== 美团 ==========
-  - +.51ping.com
-  - +.baobaoaichi.cn
-  - +.dianping.com
-  - +.dpfile.com
-  - +.maoyan.com
-  - +.meituan.com
-  - +.meituan.net
-  - +.mtyun.com
   - +.neixin.cn
   - +.sankuai.com
   - +.100.me
@@ -32,8 +24,6 @@
   - +.dduser.mobi
   - +.ddxq.mobi
   - +.imaicai.mobi
-  - +.meituanssp.xyz
-  - +.shark-mt.meituan.com
 
   # ========== Apple ==========
   - +.xp.apple.com
@@ -121,7 +111,6 @@
   - +.mcs.snssdk.com
   - +.vcs.snssdk.com
   - +.verify.snssdk.com
-  - +.log.snssdk.com
   - +.livewebbs2.msstatic.com
   - +.msstatic.com
   - +.miniapp.bilibili.com
@@ -134,22 +123,22 @@
   - +.terms-drcn.platform.dbankcloud.cn
   - +.tnc-boot.capcutapi.com
   - +.tnc-sg.capcutapi.com
-  - +.tnc0-aliec2.zijieapi.com
-  - +.tnc0-alisc1.zijieapi.com
-  - +.tnc0-bjlgy.zijieapi.com
-  - +.tnc16-alisg.isnssdk.com
-  - +.tnc16-useast1a.isnssdk.com
-  - +.tnc3-aliec1.toutiaoapi.com
-  - +.tnc3-aliec2.bytedance.com
-  - +.tnc3-aliec2.snssdk.com
-  - +.tnc3-aliec2.toutiaoapi.com
-  - +.tnc3-alisc1.bytedance.com
-  - +.tnc3-alisc1.snssdk.com
-  - +.tnc3-alisc1.toutiaoapi.com
-  - +.tnc3-alisc2.zijieapi.com
-  - +.tnc3-bjlgy.bytedance.com
-  - +.tnc3-bjlgy.snssdk.com
-  - +.tnc3-bjlgy.toutiaoapi.com
+  - tnc0-aliec2.zijieapi.com
+  - tnc0-alisc1.zijieapi.com
+  - tnc0-bjlgy.zijieapi.com
+  - tnc16-alisg.isnssdk.com
+  - tnc16-useast1a.isnssdk.com
+  - tnc3-aliec1.toutiaoapi.com
+  - tnc3-aliec2.bytedance.com
+  - tnc3-aliec2.snssdk.com
+  - tnc3-aliec2.toutiaoapi.com
+  - tnc3-alisc1.bytedance.com
+  - tnc3-alisc1.snssdk.com
+  - tnc3-alisc1.toutiaoapi.com
+  - tnc3-alisc2.zijieapi.com
+  - tnc3-bjlgy.bytedance.com
+  - tnc3-bjlgy.snssdk.com
+  - tnc3-bjlgy.toutiaoapi.com
   - +.cloudflareinsights.com
   - +.erebor.douban.com
   - +.graph.facebook.com
