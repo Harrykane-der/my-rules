@@ -1,16 +1,17 @@
 # ========== FCM / Google mtalk ==========
-  - +.alt7-mtalk.google.com
-  - +.alt8-mtalk.google.com
-  - +.mtalk-dev.google.com
-  - +.mtalk-staging.google.com
-  - +.mtalk4.google.com
-  - +.alt1-mtalk.google.com
-  - +.alt2-mtalk.google.com
-  - +.alt3-mtalk.google.com
-  - +.alt4-mtalk.google.com
-  - +.alt5-mtalk.google.com
-  - +.alt6-mtalk.google.com
-  - +.mtalk.google.com
+  - wiki.metacubex.one
+  - alt7-mtalk.google.com
+  - alt8-mtalk.google.com
+  - mtalk-dev.google.com
+  - mtalk-staging.google.com
+  - mtalk4.google.com
+  - alt1-mtalk.google.com
+  - alt2-mtalk.google.com
+  - alt3-mtalk.google.com
+  - alt4-mtalk.google.com
+  - alt5-mtalk.google.com
+  - alt6-mtalk.google.com
+  - mtalk.google.com
 
   # ========== 美团 ==========
   - +.neixin.cn
@@ -102,27 +103,13 @@
 
   # ========== 直播与短视频 ==========
   - +.gift.douyucdn.cn
-  - +.p3-ad-sign.byteimg.com
-  - +.va.huya.com
-  - +.img2.autoimg.cn
-  - +.ib.snssdk.com
-  - +.ic.snssdk.com
-  - +.is.snssdk.com
-  - +.mcs.snssdk.com
-  - +.vcs.snssdk.com
-  - +.verify.snssdk.com
-  - +.livewebbs2.msstatic.com
-  - +.msstatic.com
-  - +.miniapp.bilibili.com
-  - +.grpc.biliapi.net
-  - +.live-trace.bilibili.com
-
-  # ========== 未分类大厂 ==========
-  - +.sgali-mcs.byteoversea.com
-  - +.eq.10jqka.com.cn
-  - +.terms-drcn.platform.dbankcloud.cn
-  - +.tnc-boot.capcutapi.com
-  - +.tnc-sg.capcutapi.com
+  - va.huya.com
+  - img2.autoimg.cn
+  - ib.snssdk.com
+  - ic.snssdk.com
+  - is.snssdk.com
+  - mcs.snssdk.com
+  - vcs.snssdk.com
   - tnc0-aliec2.zijieapi.com
   - tnc0-alisc1.zijieapi.com
   - tnc0-bjlgy.zijieapi.com
@@ -136,9 +123,22 @@
   - tnc3-alisc1.snssdk.com
   - tnc3-alisc1.toutiaoapi.com
   - tnc3-alisc2.zijieapi.com
+  - sgali-mcs.byteoversea.com 
   - tnc3-bjlgy.bytedance.com
   - tnc3-bjlgy.snssdk.com
   - tnc3-bjlgy.toutiaoapi.com
+  - verify.snssdk.com
+  - livewebbs2.msstatic.com
+  - msstatic.com
+  - miniapp.bilibili.com
+  - grpc.biliapi.net
+  - live-trace.bilibili.com
+
+  # ========== 未分类大厂 ==========
+  - +.eq.10jqka.com.cn
+  - +.terms-drcn.platform.dbankcloud.cn
+  - +.tnc-boot.capcutapi.com
+  - +.tnc-sg.capcutapi.com
   - +.cloudflareinsights.com
   - +.erebor.douban.com
   - +.graph.facebook.com
