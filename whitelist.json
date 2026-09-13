@@ -3,9 +3,10 @@
   "rules": [
     {
       "domain": [
-        "ip.sb",
+        "api.ip.sb",
         "ipwho.is",
-        "ipapi.is",
+        "myip.ipip.net",
+        "api.ipapi.is",
         "board.zash.run.place",
         "wiki.metacubex.one",
         "alt7-mtalk.google.com",
