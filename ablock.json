@@ -6,6 +6,8 @@
         "httpdns",
         "httpsdns",
         "stun",
+        "pcdn",
+        "turn",
         "p2p",
         "ad.",
         "-ad",
